@@ -17,9 +17,9 @@
 
 ***Project Objectives***
 
-**1.*8 Create a Profit & Loss (P&L) reports by Fiscal Year(https://github.com/ShivaniP929/Excel-sales-analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+**1.** Create a Profit & Loss (P&L) reports by Fiscal Year(https://github.com/ShivaniP929/Excel-sales-analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-**2.** Create Profit & Loss(P&L) reports by Market
+**2.** Create Profit & Loss(P&L) reports by Market(https://github.com/ShivaniP929/Excel-sales-analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
